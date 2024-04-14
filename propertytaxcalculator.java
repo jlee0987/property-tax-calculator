@@ -1,12 +1,7 @@
-package project4;
-import java.util.*; //import to use the Scanner
-//java.util is a package I am borrowing
+package project2;
+import java.util.*; 
 
 /*
-Name: Jillian Lee
- 	  jlee326@uwsp.edu
-Course: APC Programming I
-Meets: Summer 2022
 Description: This program calculates property tax based on the assessed value of a property. 
 */
 
