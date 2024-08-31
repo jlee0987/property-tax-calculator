@@ -42,7 +42,6 @@ public static void main(String[] args) {
 	System.out.printf("Tax Rate for each $100.00:       $%12.2f%n",propertyTaxRate);
 	System.out.printf("Property Tax:                    $%12.2f%n",propertyTax);
 	
-	System.out.println("\'\\\\' is used to comment single Java statement.");
 			
 	}//end main
 
